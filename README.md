@@ -1,5 +1,5 @@
 # SortAlgorithms
-The Repo shows an example of my demonstration of my knowledge of sorting Alogirthms: Insertion, Quick Sort, Merge Sort, Heap Sort, Bubble Sort, and Selection Sort.
+The Repo shows an example of my demonstration of my knowledge of sorting Algoirthms: Insertion, Quick Sort, Merge Sort, Heap Sort, Bubble Sort, and Selection Sort.
 The code takes data from a file, converts into int, and stores into a int list where the list then goes to different class labeled by each of the sorting algorithms.
 Each algorithm gets timed with how fast they get the sorting done. So all in all it's a test to see which is better when sorting a data filled with scores.
 
